@@ -25,3 +25,5 @@ describe('ProgressBar.vue', () => {
     expect(wrapper.vm.progressBarWidth).toEqual('60%')
   })
 })
+
+// Path: src/components/ProgressBar.vue
